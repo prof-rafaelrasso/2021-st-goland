@@ -1,0 +1,2 @@
+- Ponto e virgula: É opcional
+- Escopo (Chaves): Sempre a frente da funcao (nunca embaixo C# pira), da erro de syntaxe
