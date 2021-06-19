@@ -55,7 +55,7 @@ func ifTradicionalzao() {
 	if ehFalso() {
 		fmt.Println("Eh falso")
 	}
-	
+
 	if ehFalso() && ehVerdadeiro() {
 		fmt.Println("Verdadeiro e Falso")
 	}
